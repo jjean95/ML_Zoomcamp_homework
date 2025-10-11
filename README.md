@@ -8,3 +8,7 @@ Homework 1 file: 01-into > homework1.ipynb
 Homework 2: https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/02-regression/homework.md
 
 Homework 2 file: 02-regression > homework2.ipynb
+
+Homework 3: https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/03-classification/homework.md
+
+Homework 3 file: 03-classification > homework3.ipynb
