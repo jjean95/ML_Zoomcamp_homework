@@ -12,3 +12,7 @@ Homework 2 file: 02-regression > homework2.ipynb
 Homework 3: https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/03-classification/homework.md
 
 Homework 3 file: 03-classification > homework3.ipynb
+
+Homework 4: https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/04-evaluation/homework.md
+
+Homework 4 file: 04-evaluation > homework4.ipynb
